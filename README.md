@@ -23,6 +23,8 @@ We all know that you are able to read more than 10 lessons by just using private
 
 If you have the money to and like the content you are able to find on [Kartable](https://www.kartable.fr), please subscribe to their plans.
 
+Moreover, this extension doesn't make you a "Premium" account, but only unlocks a few features available with any "Premium" account. Things like quizzes, account features, support, etc. aren't unlocked.
+
 ## Installation
 
 This extension is not on any add-ons/plugins/extension market for now.
