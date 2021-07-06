@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "Kartable",
+    "version": "1.0",
+    "description": "An extension to enjoy Kartable freely!",
+    "author": "Anime no Sekai",
+    "content_scripts": [
+        {
+            "matches": ["https://www.kartable.fr/*"],
+            "js": ["kartable-extension.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "icons": {
+        "16": "assets/icons/studying_icon-16.png",
+        "24": "assets/icons/studying_icon-24.png",
+        "32": "assets/icons/studying_icon-32.png",
+        "48": "assets/icons/studying_icon-48.png",
+        "128": "assets/icons/studying_icon-128.png"
+    },
+    "homepage_url": "https://github.com/Animenosekai/kartable",
+    "incognito": "spanning",
+    "short_name": "Kartable",
+    "version_name": "v1.0"
+}
